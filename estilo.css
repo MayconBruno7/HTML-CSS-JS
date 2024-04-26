@@ -1,0 +1,40 @@
+@font-face{
+	font-family: Livvic;
+	src: url(Livvic-Medium.ttf);
+}		
+
+html{
+	font-family: Livvic;
+}
+
+h3{
+	color: darkred;
+}
+
+
+table{
+	text-align: center;
+}
+
+th{
+	overflow: hidden;
+	background-color: firebrick;
+}
+
+dt{
+	
+}
+
+dd{
+	color: gray;
+}
+
+td{
+	color: gray;
+}
+
+#tabela1{
+	overflow: hidden;
+	color: whitesmoke;
+	background-color: black;
+}
